@@ -36,10 +36,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/teresaxu-ai/github-architecture-research.git"
+    "url": "https://github.com/teresaxu-ai/github-architecture-research-design.git"
   },
-  "homepage": "https://github.com/teresaxu-ai/github-architecture-research#readme",
+  "homepage": "https://github.com/teresaxu-ai/github-architecture-research-design#readme",
   "bugs": {
-    "url": "https://github.com/teresaxu-ai/github-architecture-research/issues"
+    "url": "https://github.com/teresaxu-ai/github-architecture-research-design/issues"
   }
 }
